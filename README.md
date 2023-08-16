@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Parvesh</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Parvesh;" />
+</h1>
+
 <h3 align="center">Developer | Designer | Learner</h3>
 <img align="right" alt="coding" width = "400" src = "https://miro.medium.com/v2/resize:fit:1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
 
